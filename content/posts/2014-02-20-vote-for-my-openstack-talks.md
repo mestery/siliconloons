@@ -1,0 +1,23 @@
+---
+title: Vote for my OpenStack Talks!
+author: mestery
+layout: post
+date: 2014-02-20
+url: /vote-for-my-openstack-talks/
+tmac_last_id:
+  - 544155999452819456
+categories:
+  - OpenStack
+tags:
+  - OpenStack
+---
+I am very lucky to be a part of six great presentation submissions for the upcoming <a title="OpenStack Summit Atlanta" href="https://www.openstack.org/summit/openstack-summit-atlanta-2014/" target="_blank">OpenStack Summit in Atlanta</a>. The OpenStack Foundation uses voting to help decide which of these talks, panels, and tutorials will be scheduled. I would appreciate your vote for my submissions! I&#8217;ll highlight them below.
+
+  * <a title="Using OpenStack Within An OpenStack Environment" href="https://www.openstack.org/vote-atlanta/Presentation/using-opendaylight-within-an-openstack-environment" target="_blank">Using OpenStack Within An OpenStack Environment</a>: This is a talk which will be similar to the <a title="Using OpenDaylight with OpenStack Neutron" href="http://www.youtube.com/watch?v=3MkCiHeH_Fo" target="_blank">tutorial</a> Madhu, Brent, Ryan and I did at the OpenDaylight Summit, except it will be less tutorial focused and more presentation based. We&#8217;ll show you how to use the latest OpenDaylight Hydrogen release with OpenStack Neutron. I&#8217;m hoping to add Madhu and Brent to present alongside Dave Meyer and myself.
+  * <a title="OpenStack Integration with OpenDaylight: State of the Union and Future Directions" href="https://www.openstack.org/vote-atlanta/Presentation/openstack-integration-with-opendaylight-state-of-the-union-and-future-directions" target="_blank">OpenStack Integration with OpenDaylight: State of the Union and Future Directions</a>: In this talk, Dave Meyer and I will go over OpenDaylight for people who are new to this Open Source SDN controller. We&#8217;ll cover a bit of history and go over what&#8217;s supported in the Hydrogen release. And we&#8217;ll cover a bit about the future direction. This session will be great for people new to OpenDaylight.
+  * <a title="The Future of OpenStack Networking" href="https://www.openstack.org/vote-atlanta/Presentation/the-future-of-openstack-networking" target="_blank">The Future of OpenStack Networking</a>: This is a panel discussion we put together to discuss future directions of OpenStack Networking. Some great people are proposed on this panel with me: Lew Tucker, who leads Cloud Computing at Cisco and is one of the sharpest minds in the industry; Dan Dumitriu, CEO of Midokura and a trailblazer in the SDN industry; Chris Wright, Technical Director of SDN at Red Hat, and one of the best known names in Open Source networking; and Nils Swart from Plexxi, who is leading their Open Source strategy. A great group of people, this will be a fun panel if it&#8217;s accepted.
+  * <a title="Network Policy Abstractions in Neutron" href="https://www.openstack.org/vote-atlanta/Presentation/integrating-network-policies-and-services" target="_blank">Network Policy Abstractions in Neutron</a>: There is work going on in Neutron to add a new Policy API layer here. This will make it easier for application developers and deployers to work with the networking subsystem in OpenStack. This is a talk which will go into details on this. I&#8217;m happy to be joined by Mohammad Banikazemi from IBM and Stephen Wong from Midokura. Anyone interested in advanced policy discussions will want to attend this discussion should it be approved.
+  * <a title="An Overview of Open Source Backends for Neutron" href="https://www.openstack.org/vote-atlanta/Presentation/an-overview-of-open-source-backends-for-neutron" target="_blank">An Overview of Open Source Backends for Neutron</a>: This talk will walk people through the options available in the Open Source world for OpenStack Neutron networking. Salvatore Orlando, who is one of the original Neutron core team members, will be my co-presenter, should this talk get approved. This talk would be great for people looking at deployment options which are pure open source.
+  * <a title="Hackathon Syllabus" href="https://www.openstack.org/vote-atlanta/Presentation/hackathon-syllabus" target="_blank">Hackathon Syllabus</a>: This is a great talk submitted by Sean Roberts from Yahoo!, and we plan to cover how to hold a Hackathon Style user group meeting. We&#8217;ll be joined by Colin McNamara from Nexus IS and Mark Voelker from Cisco. This will be great for people who are looking at forming User Groups focused on hacking!
+
+Please consider any or all of my talks above. I appreciate your votes and look forward to continuing to share my knowledge around Open Source networking!
