@@ -26,6 +26,10 @@ To generate this site, follow the instructions below:
 
 5. You're done!
 
+To create a new post, run a command such as the following:
+
+   `hugo new posts/2014-12-26-welcome-to-hugo.md`
+
 References
 ==========
 The following are links for references for working with Hugo and Markdown:
