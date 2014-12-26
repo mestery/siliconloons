@@ -1,9 +1,9 @@
 ---
 title: 'LimeChat: OSX IRC Client'
 author: mestery
-layout: post
 date: 2011-11-16
 url: /osx-irc-clients/
+socialsharing: true
 tmac_last_id:
   - 544156016674238464
 categories:

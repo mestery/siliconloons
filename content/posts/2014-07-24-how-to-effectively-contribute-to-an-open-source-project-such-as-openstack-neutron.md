@@ -1,9 +1,9 @@
 ---
 title: How to Effectively Contribute to An Open Source Project Such As OpenStack Neutron
 author: mestery
-layout: post
 date: 2014-07-24
 url: /how-to-effectively-contribute-to-an-open-source-project-such-as-openstack-neutron/
+socialsharing: true
 tmac_last_id:
   - 544155995526934529
 categories:

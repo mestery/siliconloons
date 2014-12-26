@@ -1,9 +1,9 @@
 ---
 title: OpenDaylight Integration with OpenStack has merged into Icehouse!
 author: mestery
-layout: post
 date: 2014-03-07
 url: /opendaylight-integration-with-openstack-has-merged-into-icehouse/
+socialsharing: true
 tmac_last_id:
   - 544155999137853440
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Moving a Cisco NSSxxx from Cisco Firmware to Qnap Firmware
 author: mestery
-layout: post
 date: 2012-01-04
 url: /moving-a-cisco-nssxxx-from-cisco-firmware-to-qnap-firmware/
+socialsharing: true
 tmac_last_id:
   - 544156015395348480
 categories:

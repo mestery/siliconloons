@@ -1,9 +1,9 @@
 ---
 title: Multi-node OpenStack Folsom devstack
 author: mestery
-layout: post
 date: 2013-01-11
 url: /multi-node-openstack-folsom-devstack/
+socialsharing: true
 tmac_last_id:
   - 544156005152862208
 categories:

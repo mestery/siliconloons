@@ -1,9 +1,9 @@
 ---
 title: Fedora 17 with Open vSwitch
 author: mestery
-layout: post
 date: 2012-08-07
 url: /fedora-17-with-open-vswitch/
+socialsharing: true
 tmac_last_id:
   - 544156008399273984
 categories:

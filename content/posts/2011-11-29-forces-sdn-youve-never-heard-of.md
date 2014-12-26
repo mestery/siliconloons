@@ -1,9 +1,9 @@
 ---
 title: 'ForCES: SDN You’ve Never Heard Of'
 author: mestery
-layout: post
 date: 2011-11-29
 url: /forces-sdn-youve-never-heard-of/
+socialsharing: true
 tmac_last_id:
   - 544156017517277184
 categories:

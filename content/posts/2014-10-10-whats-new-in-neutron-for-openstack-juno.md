@@ -1,9 +1,9 @@
 ---
 title: What’s New in Neutron for OpenStack Juno
 author: mestery
-layout: post
 date: 2014-10-10
 url: /whats-new-in-neutron-for-openstack-juno/
+socialsharing: true
 tmac_last_id:
   - 544155993249439745
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Getting Started With OpenDaylight and OpenStack
 author: mestery
-layout: post
 date: 2013-12-16
 url: /getting-started-with-opendaylight-and-openstack/
+socialsharing: true
 tmac_last_id:
   - 544156000492601344
 categories:

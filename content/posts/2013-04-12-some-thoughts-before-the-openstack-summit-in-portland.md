@@ -1,9 +1,9 @@
 ---
 title: Some Thoughts Before the OpenStack Summit in Portland
 author: mestery
-layout: post
 date: 2013-04-12
 url: /some-thoughts-before-the-openstack-summit-in-portland/
+socialsharing: true
 tmac_last_id:
   - 544156002870779904
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Engineering Artifacts Themselves Are No Longer the Source of Sustainable Advantage and/or Innovation
 author: mestery
-layout: post
 date: 2014-03-21
 url: /engineering-artifacts-themselves-are-no-longer-the-source-of-sustainable-advantage-andor-innovation/
+socialsharing: true
 tmac_last_id:
   - 544155998923931648
 categories:

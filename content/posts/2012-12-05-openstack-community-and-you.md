@@ -1,9 +1,9 @@
 ---
 title: OpenStack, Community, and You
 author: mestery
-layout: post
 date: 2012-12-05
 url: /openstack-community-and-you/
+socialsharing: true
 tmac_last_id:
   - 544156005530365953
 categories:

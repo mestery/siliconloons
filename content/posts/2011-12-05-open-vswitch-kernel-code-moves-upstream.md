@@ -1,9 +1,9 @@
 ---
 title: Open vSwitch Kernel Code Moves Upstream
 author: mestery
-layout: post
 date: 2011-12-05
 url: /open-vswitch-kernel-code-moves-upstream/
+socialsharing: true
 tmac_last_id:
   - 544156016556797952
 categories:

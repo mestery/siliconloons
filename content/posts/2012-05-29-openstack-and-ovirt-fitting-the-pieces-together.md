@@ -1,9 +1,9 @@
 ---
 title: 'OpenStack and oVirt: Fitting the Pieces Together'
 author: mestery
-layout: post
 date: 2012-05-29
 url: /openstack-and-ovirt-fitting-the-pieces-together/
+socialsharing: true
 tmac_last_id:
   - 544156010105950208
 categories:

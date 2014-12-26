@@ -1,9 +1,9 @@
 ---
 title: Unit Test Frameworks for “C”
 author: mestery
-layout: post
 date: 2011-11-08
 url: /unit-test-frameworks-for-c/
+socialsharing: true
 tmac_last_id:
   - 544156019165655040
 categories:

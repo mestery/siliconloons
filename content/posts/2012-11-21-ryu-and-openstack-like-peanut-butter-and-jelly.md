@@ -1,9 +1,9 @@
 ---
 title: 'Ryu and OpenStack: Like Peanut Butter and Jelly'
 author: mestery
-layout: post
 date: 2012-11-21
 url: /ryu-and-openstack-like-peanut-butter-and-jelly/
+socialsharing: true
 tmac_last_id:
   - 544156006067208192
 categories:

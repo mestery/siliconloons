@@ -1,9 +1,9 @@
 ---
 title: SDN Adoption in the Enterprise
 author: mestery
-layout: post
 date: 2012-03-07
 url: /sdn-in-the-enterprise-like-oil-on-water/
+socialsharing: true
 tmac_last_id:
   - 544156012190896128
 categories:

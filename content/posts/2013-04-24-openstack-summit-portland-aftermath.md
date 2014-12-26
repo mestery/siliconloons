@@ -1,9 +1,9 @@
 ---
 title: OpenStack Summit Portland Aftermath
 author: mestery
-layout: post
 date: 2013-04-24
 url: /openstack-summit-portland-aftermath/
+socialsharing: true
 tmac_last_id:
   - 544156001859940353
 categories:

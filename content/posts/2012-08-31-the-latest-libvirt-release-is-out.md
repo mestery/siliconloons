@@ -1,9 +1,9 @@
 ---
 title: The latest libvirt release is out!
 author: mestery
-layout: post
 date: 2012-08-31
 url: /the-latest-libvirt-release-is-out/
+socialsharing: true
 tmac_last_id:
   - 544156007845203968
 categories:

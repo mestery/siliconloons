@@ -1,9 +1,9 @@
 ---
 title: Trust the Upstream Community
 author: mestery
-layout: post
 date: 2014-09-15
 url: /trust-the-upstream-community/
+socialsharing: true
 tmac_last_id:
   - 544155995526934529
 categories:

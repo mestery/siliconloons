@@ -1,9 +1,9 @@
 ---
 title: Automate all the things!
 author: mestery
-layout: post
 date: 2012-09-11
 url: /automate-all-the-things/
+socialsharing: true
 tmac_last_id:
   - 544156007740366848
 categories:

@@ -1,9 +1,9 @@
 ---
 title: I am a member of the OpenStack Neutron Core Team!
 author: mestery
-layout: post
 date: 2013-07-30
 url: /i-am-a-member-of-the-openstack-neutron-core-team/
+socialsharing: true
 tmac_last_id:
   - 544156002955034625
 categories:

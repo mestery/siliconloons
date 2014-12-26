@@ -1,9 +1,9 @@
 ---
 title: Vote for my OpenStack Presentations for the Hong Kong Summit!
 author: mestery
-layout: post
 date: 2013-08-16
 url: /vote-for-my-openstack-presentations-for-the-hong-kong-summit/
+socialsharing: true
 tmac_last_id:
   - 544156001859940353
 categories:

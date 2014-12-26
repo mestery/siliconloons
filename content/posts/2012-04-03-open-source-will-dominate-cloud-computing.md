@@ -1,9 +1,9 @@
 ---
 title: CloudStack Goes Apache
 author: mestery
-layout: post
 date: 2012-04-03
 url: /open-source-will-dominate-cloud-computing/
+socialsharing: true
 tmac_last_id:
   - 544156012190896128
 categories:

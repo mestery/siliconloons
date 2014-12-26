@@ -1,9 +1,9 @@
 ---
 title: 'iPhone 4S: The Ultimate Travel Gadget'
 author: mestery
-layout: post
 date: 2011-11-01
 url: /iphone-4s-the-ultimate-travel-gadget/
+socialsharing: true
 tmac_last_id:
   - 544156020461686786
 categories:

@@ -1,3 +1,35 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+
 baseurl = "http://blog.siliconloons.com/"
-languageCode = "en-us"
-title = "Siliconloons"
+canonifyurls = true
+
+[index]
+   category = "categories"
+   tag = "tags"
+
+[params]
+   sidebartitle = "Silicon Loons"
+   sidebartagline = "Kyle Mestery's technology commentary"
+   categoriescss = "/css/my-categories.css"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/mestery"
+    identifier = "twitter"
+
+[[menu.social]]
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "http://www.linkedin.com/pub/kyle-mestery/3/a0b/64a"
+    identifier = "linkedin"
+
+[[menu.footer]]
+    name = "Blog"
+    url = "/posts"
+

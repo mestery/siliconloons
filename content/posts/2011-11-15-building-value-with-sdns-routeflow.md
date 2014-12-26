@@ -1,9 +1,9 @@
 ---
 title: 'Building Value with SDNs: RouteFlow'
 author: mestery
-layout: post
 date: 2011-11-15
 url: /building-value-with-sdns-routeflow/
+socialsharing: true
 views:
   - 1
 tmac_last_id:

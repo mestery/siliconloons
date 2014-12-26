@@ -1,9 +1,9 @@
 ---
 title: 'ONUG 2014: My impressions'
 author: mestery
-layout: post
 date: 2014-05-08
 url: /onug-2014-my-impressions/
+socialsharing: true
 tmac_last_id:
   - 544155997313323008
 categories:

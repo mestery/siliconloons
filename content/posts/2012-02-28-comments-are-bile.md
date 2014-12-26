@@ -1,9 +1,9 @@
 ---
 title: Comments Are Bile
 author: mestery
-layout: post
 date: 2012-02-28
 url: /comments-are-bile/
+socialsharing: true
 tmac_last_id:
   - 544156012706398208
 categories:

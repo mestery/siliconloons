@@ -1,9 +1,9 @@
 ---
 title: LinuxCon Wrapup
 author: mestery
-layout: post
 date: 2013-09-24
 url: /linuxcon-wrapup/
+socialsharing: true
 tmac_last_id:
   - 544156001859940353
 categories:

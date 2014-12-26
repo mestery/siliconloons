@@ -1,9 +1,9 @@
 ---
 title: Peer Reviews for Neutron Core Reviewers
 author: mestery
-layout: post
 date: 2014-10-21
 url: /peer-reviews-for-neutron-core-reviewers/
+socialsharing: true
 tmac_last_id:
   - 544155993249439745
 categories:

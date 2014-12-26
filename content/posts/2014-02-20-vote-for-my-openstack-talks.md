@@ -1,9 +1,9 @@
 ---
 title: Vote for my OpenStack Talks!
 author: mestery
-layout: post
 date: 2014-02-20
 url: /vote-for-my-openstack-talks/
+socialsharing: true
 tmac_last_id:
   - 544155999452819456
 categories:

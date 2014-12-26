@@ -1,9 +1,9 @@
 ---
 title: Teach Your Kids to Code!
 author: mestery
-layout: post
 date: 2012-07-25
 url: /teach-your-kids-to-code/
+socialsharing: true
 tmac_last_id:
   - 544156009153826817
 categories:

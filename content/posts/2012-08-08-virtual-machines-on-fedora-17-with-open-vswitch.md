@@ -1,9 +1,9 @@
 ---
 title: Virtual Machines on Fedora 17 with Open vSwitch
 author: mestery
-layout: post
 date: 2012-08-08
 url: /virtual-machines-on-fedora-17-with-open-vswitch/
+socialsharing: true
 tmac_last_id:
   - 544156008399273984
 categories:

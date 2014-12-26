@@ -1,9 +1,9 @@
 ---
 title: Hate email? Remember Google Wave?
 author: mestery
-layout: post
 date: 2012-02-10
 url: /hate-email-remember-google-wave/
+socialsharing: true
 tmac_last_id:
   - 544156013025591296
 categories:

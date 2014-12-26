@@ -1,9 +1,9 @@
 ---
 title: TimeMachine on a QNAP TS-659
 author: mestery
-layout: post
 date: 2014-02-11
 url: /timemachine-on-a-qnap-ts-659/
+socialsharing: true
 tmac_last_id:
   - 544155999725031424
 categories:

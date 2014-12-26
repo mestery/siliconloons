@@ -1,9 +1,9 @@
 ---
 title: 'OpenDaylight and OpenStack: Now With Helium!'
 author: mestery
-layout: post
 date: 2014-10-21
 url: /opendaylight-and-openstack-now-with-helium/
+socialsharing: true
 tmac_last_id:
   - 544155992896712704
 categories:

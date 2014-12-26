@@ -1,9 +1,9 @@
 ---
 title: Open Source Cloud and Virtualization Terminology for VMware Users
 author: mestery
-layout: post
 date: 2011-12-15
 url: /open-source-cloud-and-virtualization-terminology-for-vmware-users/
+socialsharing: true
 tmac_last_id:
   - 544156014732664832
 categories:

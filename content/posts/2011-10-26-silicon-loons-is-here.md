@@ -1,9 +1,9 @@
 ---
 title: Silicon Loons is here!
 author: mestery
-layout: post
 date: 2011-10-26
 url: /silicon-loons-is-here/
+socialsharing: true
 tmac_last_id:
   - 544156020461686786
 categories:

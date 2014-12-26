@@ -1,9 +1,9 @@
 ---
 title: OpFlex Is Not An OpenFlow Killer
 author: mestery
-layout: post
 date: 2014-04-04
 url: /opflex-is-not-an-sdn-killer/
+socialsharing: true
 tmac_last_id:
   - 544155997401776128
 categories:

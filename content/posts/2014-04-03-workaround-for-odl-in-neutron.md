@@ -1,9 +1,9 @@
 ---
 title: Workaround for ODL in Neutron
 author: mestery
-layout: post
 date: 2014-04-03
 url: /workaround-for-odl-in-neutron/
+socialsharing: true
 tmac_last_id:
   - 544155997401776128
 categories:

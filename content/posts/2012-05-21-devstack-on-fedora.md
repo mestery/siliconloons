@@ -1,9 +1,9 @@
 ---
 title: devstack on Fedora
 author: mestery
-layout: post
 date: 2012-05-21
 url: /devstack-on-fedora/
+socialsharing: true
 tmac_last_id:
   - 544156011624673280
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Update on VXLAN in Open vSwitch
 author: mestery
-layout: post
 date: 2012-02-06
 url: /update-on-vxlan-in-open-vswitch/
+socialsharing: true
 tmac_last_id:
   - 544156013025591296
 categories:
