@@ -24,3 +24,11 @@ To generate this site, follow the instructions below:
 
    rsync -avz -e ssh mestery@sadira.dreamhost.com:siliconloons.com/ public/*
 
+5. You're done!
+
+References
+==========
+The following are links for references for working with Hugo and Markdown:
+
+* Markdown Cheatsheet
+** https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
