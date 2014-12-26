@@ -2,6 +2,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
+theme = "redlounge"
 
 baseurl = "http://blog.siliconloons.com/"
 canonifyurls = true
