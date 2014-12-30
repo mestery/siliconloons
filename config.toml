@@ -17,6 +17,11 @@ canonifyurls = true
    categoriescss = "/css/my-categories.css"
 
 [[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/mestery"
+    identifier = "github"
+
+[[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
     url = "http://www.twitter.com/mestery"
     identifier = "twitter"
