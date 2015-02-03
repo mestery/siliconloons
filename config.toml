@@ -4,7 +4,6 @@ publishdir = "public"
 builddrafts = false
 theme = "redlounge"
 title = "blog.siliconloons.com"
-disqusShortname = "siliconloons"
 
 baseurl = "http://blog.siliconloons.com/"
 canonifyurls = true
