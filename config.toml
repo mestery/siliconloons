@@ -17,6 +17,10 @@ canonifyurls = true
    sidebartagline = "Kyle Mestery's technology commentary"
    categoriescss = "/css/my-categories.css"
 
+[[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+
 [[menu.social]]
     pre = "<i class='fa fa-github'></i>"
     url = "https://github.com/mestery"
@@ -36,3 +40,6 @@ canonifyurls = true
     name = "Blog"
     url = "/posts"
 
+[[menu.footer]]
+    name = "RSS"
+    url = "/index.xml"
