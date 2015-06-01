@@ -22,7 +22,7 @@ To generate this site, follow the instructions below:
 
 4. Sync the content out to your hosting provider:
 
-   `rsync -avz -e ssh mestery@sadira.dreamhost.com:siliconloons.com/ public/*`
+   `rsync -avz -e ssh public/* mestery@sadira.dreamhost.com:siliconloons.com/`
 
 5. You're done!
 
