@@ -10,6 +10,8 @@ url = ""
 
 +++
 
+**[Updated 6-2-2015 with the full process for filing RFEs in Neutron.]**
+
 Starting with the development of the Juno release, the Neutron project moved to
 using a [specs repository][1] similar to how other projects were using them. In
 our quest to enforce a [waterfall design model][2], we also added an
@@ -57,6 +59,27 @@ can turn into features should the need arise. The process is streamlined as
 well with no additional deadlines. Overall, a win-win for all interested
 parties.
 
+The entire new process, as documented in the [Neutron blueprint][7] process
+file, is as follows.
+
+>> 1. The bug is submitted and will by default land in the "New" state.
+>> 2. As soon as a member of the neutron-drivers team acknowledges the bug, it
+>>    will be moved into the "Confirmed" state. No priority, assignee, or
+>>    milestone is set at this time.
+>> 3. The bug goes into the "Triaged" state once a discussion around the RFE
+>>    has taken place.
+>> 4. The neutron-drivers team will evaluate the RFE and may advise the
+>>    submitter to file a spec in neutron-specs to elaborate on the feature
+>>    request.
+>> 5. The PTL will work with the Lieutenant for the area being identified by
+>>    the RFE to evaluate resources against the current workload.
+>> 6. In either case (a spec being required or not), once discussion has
+>>    happened the bug will get an assignee, priority and milestone.
+>> 7. Once a patchset targeting the bug is submitted the bug will move into the
+>>    "In Progress" state.
+>> 8. When all patches targeting the bug are merged or abandoned, the bug will
+>>    be moved to the "Completed" state.
+
 The Future
 ----------
 
@@ -72,3 +95,4 @@ submit code into Neutron.
 [4]: http://ttx.re/stepping-out-of-the-way.html
 [5]: https://github.com/openstack/neutron-specs/blob/master/specs/template.rst
 [6]: https://bugs.launchpad.net/neutron/+bugs?field.tag=rfe
+[7]: https://github.com/openstack/neutron/blob/master/doc/source/policies/blueprints.rst
