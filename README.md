@@ -8,7 +8,7 @@ Howto
 
 To generate this site, follow the instructions below:
 
-1. Glone this repository
+1. Clone this repository
 
    `git clone git@github.com:mestery/siliconloons.git`
 
