@@ -3,9 +3,9 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 theme = "redlounge"
-title = "blog.siliconloons.com"
+title = "www.siliconloons.com"
 
-baseurl = "http://blog.siliconloons.com/"
+baseurl = "https://www.siliconloons.com/"
 canonifyurls = true
 
 [index]
@@ -28,12 +28,12 @@ canonifyurls = true
 
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/mestery"
+    url = "https://www.twitter.com/mestery"
     identifier = "twitter"
 
 [[menu.social]]
     pre = "<i class='fa fa-linkedin'></i>"
-    url = "http://www.linkedin.com/pub/kyle-mestery/3/a0b/64a"
+    url = "https://www.linkedin.com/pub/kyle-mestery/3/a0b/64a"
     identifier = "linkedin"
 
 [[menu.footer]]
