@@ -215,12 +215,4 @@ If you&#8217;ve followed this guide, you should have an OpenStack Folsom Cloud r
 
 Welcome to the world of cloud computing on OpenStack!
 
-<div id="attachment_404" style="width: 202px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/?attachment_id=404" rel="attachment wp-att-404"><img class="size-full wp-image-404" alt="Welcome to Cloud Computing!" src="http://www.siliconloons.com/wp-content/uploads/2013/01/72550243968248291_lnw2Zpyw_b.jpg" width="192" height="178" /></a>
-  
-  <p class="wp-caption-text">
-    Welcome to Cloud Computing
-  </p>
-</div>
-
-&nbsp;
+<img class="special-img-class" src="/72550243968248291_lnw2Zpyw_b.jpg" title="Welcome to Cloud Computing!" />

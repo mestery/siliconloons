@@ -13,13 +13,7 @@ tags:
   - Open Source
   - OpenStack
 ---
-<div id="attachment_371" style="width: 559px" class="wp-caption aligncenter">
-  <img class="size-large wp-image-371" title="Minnesota OpenStack Meetup" src="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-1-768x1024.jpeg" alt="Minnesota OpenStack Meetup" width="549" height="732" />
-  
-  <p class="wp-caption-text">
-    Minnesota OpenStack Meetup
-  </p>
-</div>
+<img class="special-img-class" style="width: 559px" title="Minnesota OpenStack Meetup" src="/photo-1-768x1024.jpeg" />
 
 Yesterday I hosted the first <a title="Minnesota OpenStack Meetup" href="http://www.meetup.com/Minnesota-OpenStack-Meetup/" target="_blank">Minnesota OpenStack Meetup</a> at the local Cisco office in Bloomington. It was an event I had been planning for about 2 months. I was very excited to meet with other Stackers in the Twin Cities. But the story starts much before this, I&#8217;m getting ahead of myself a bit here. Let me backup and tell you the full story of how the Minnesota OpenStack Meetup came to be.
 
@@ -35,23 +29,11 @@ I recently changed roles at Cisco, and my new role allows me increasing involvem
 
 I had roughly two months to plan for the initial meeting. My initial focus was on securing a space to host the meeting. This was made slightly difficult by not having a rough idea of how many people would attend. I made the call early on to secure a room at the local Cisco office which would hold around 40 people. Part of me thought having 40 people would be unrealistic for an initial meetup, while another part of me thought getting more than 40 people would be a good problem to have. With the room secured, I turned my attention to an agenda. I&#8217;m good friends on Twitter with <a title="Colin McNamara" href="http://www.colinmcnamara.com/" target="_blank">Colin McNamara</a>, and I had seen his spectacular presentation he gave at the San Diego OpenStack Summit around &#8220;<a title="Surviving your first checkin" href="http://www.slideshare.net/colinmcnamara1/open-stack-summit-surviving-your-first-checkin" target="_blank">Surviving Your First Checkin</a>&#8220;.  The presentation was exactly what you would want to show to a new Meetup audience interested in participating in the OpenStack community. I reached out to Colin, and he was kind of enough to fly out to Minnesota and give his presentation at our inaugural meeting. Colin and I talked about what to do after his presentation, and we decided the best thing would be to have everyone do a live devstack install (e.g. a devstack installfest).
 
-<div id="attachment_377" style="width: 559px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-4.jpg"><img class="size-large wp-image-377" title="Colin doing his thing as presentor" src="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-4-1024x768.jpg" alt="Colin doing his thing as presentor" width="549" height="411" /></a>
-  
-  <p class="wp-caption-text">
-    Colin doing his thing as presentor
-  </p>
-</div>
+<img class="special-img-class" style="width: 559px" title="Colin doing his thing as presentor" src="/photo-4-1024x768.jpg" />
 
 ## The Day of the Meetup
 
-<div id="attachment_376" style="width: 559px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-2.jpg"><img class="size-large wp-image-376" title="This way to the Minnesota OpenStack Meetup!" src="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-2-1024x1024.jpg" alt="This way to the Minnesota OpenStack Meetup!" width="549" height="549" /></a>
-  
-  <p class="wp-caption-text">
-    This way to the Minnesota OpenStack Meetup!
-  </p>
-</div>
+<img class="special-img-class" style="width: 559px" title="This way to the Minnesota OpenStack Meetup!" src="/photo-2-1024x1024.jpg" />
 
 The day of the Meetup I was able to get to the Cisco office well in advance and make sure the room was ready. Colin arrive early, and was able to setup before folks started arriving. We ended up having around 20 people show up for the initial meeting. I was able to provide drinks and pizza for folks, make initial introductions of everyone, and Colin was able to give his presentation. Afterwards, we helped everyone get devstack up and running (despite the oddly flakey wireless at the Cisco office, who would have guessed?).
 
@@ -65,12 +47,6 @@ And this brings me to something very important to me. <a title="Community" href
 
 The slide below from Colin&#8217;s presentation sums it all up nicely.
 
-<div id="attachment_378" style="width: 559px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-5.jpg"><img class="size-large wp-image-378" title="Giving back" src="http://www.siliconloons.com/wp-content/uploads/2012/12/photo-5-1024x1024.jpg" alt="Giving back" width="549" height="549" /></a>
-  
-  <p class="wp-caption-text">
-    Giving back
-  </p>
-</div>
+![Giving back](/photo-5.jpg)
 
 So what are you waiting for? If there is no Meetup around OpenStack or other Open Source technology in your area, go ahead and start one. You&#8217;ll be surprised and encouraged by the response you will likely receive. And you will help to grow and strengthen an Open Source community in your area.

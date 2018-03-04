@@ -15,13 +15,7 @@ tags:
   - Puppet
   - Ruby
 ---
-<div id="attachment_329" style="width: 559px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/09/automate-all-the-things.png"><img class="size-large wp-image-329" title="automate-all-the-things" src="http://www.siliconloons.com/wp-content/uploads/2012/09/automate-all-the-things-1024x767.png" alt="Automate all the things!" width="549" height="411" /></a>
-  
-  <p class="wp-caption-text">
-    Automate all the things!
-  </p>
-</div>
+<img class="special-img-class" style="width: 559px" title="automate-all-the-things" src="/automate-all-the-things.png" />
 
 (thanks to <a href="http://hyperboleandahalf.blogspot.com/" target="_blank">Hyperbole & A Half</a> & <a href="http://memegenerator.net/X-All-The-Things" target="_blank">http://memegenerator.net/X-All-The-Things</a>)
 

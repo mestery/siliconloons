@@ -45,57 +45,21 @@ The next step is to convert this image into a format which libvirt will understa
 
 qemu-img has a lot of options, but the above will perform a basic conversion. The end result is we now have an image suitable for import into libvirt. At this point, we can bring up virt-manager and create our virtual machine. Once you start virt-manager, you should see a simple image like below:
 
-<div id="attachment_284" style="width: 571px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.31.59-AM.png"><img class="size-full wp-image-284" title="virt-manager" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.31.59-AM.png" alt="" width="561" height="577" /></a>
-  
-  <p class="wp-caption-text">
-    virt-manager start screen
-  </p>
-</div>
+![virt-manager start screen](/Screen-Shot-2012-08-08-at-9.31.59-AM.png)
 
 We can now start the process of adding our virtual machine. Below are screen shots which show the process.
 
-<div id="attachment_287" style="width: 494px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.39.02-AM.png"><img class="size-full wp-image-287" title="Step1" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.39.02-AM.png" alt="" width="484" height="380" /></a>
-  
-  <p class="wp-caption-text">
-    Step 1
-  </p>
-</div>
+![Step 1](/Screen-Shot-2012-08-08-at-9.39.02-AM.png)
 
-<div id="attachment_288" style="width: 495px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.41.29-AM.png"><img class="size-full wp-image-288" title="Step 2" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.41.29-AM.png" alt="" width="485" height="386" /></a>
-  
-  <p class="wp-caption-text">
-    Step 2
-  </p>
-</div>
+![Step 2](/Screen-Shot-2012-08-08-at-9.41.29-AM.png)
 
-<div id="attachment_289" style="width: 495px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.42.38-AM.png"><img class="size-full wp-image-289" title="Step 3" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.42.38-AM.png" alt="" width="485" height="387" /></a>
-  
-  <p class="wp-caption-text">
-    Step 3
-  </p>
-</div>
+![Step 3](/Screen-Shot-2012-08-08-at-9.42.38-AM.png)
 
-<div id="attachment_290" style="width: 495px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.44.53-AM.png"><img class="size-full wp-image-290" title="Step 4" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.44.53-AM.png" alt="" width="485" height="512" /></a>
-  
-  <p class="wp-caption-text">
-    Step 4
-  </p>
-</div>
+![Step 4](/Screen-Shot-2012-08-08-at-9.44.53-AM.png)
 
 At this point, your VM will show up in virt-manager:
 
-<div id="attachment_291" style="width: 570px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.46.29-AM.png"><img class="size-full wp-image-291" title="VM Imported" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.46.29-AM.png" alt="" width="560" height="576" /></a>
-  
-  <p class="wp-caption-text">
-    Virtual Machine imported in virt-manager
-  </p>
-</div>
+![Virtual Machine imported in virt-manager](/Screen-Shot-2012-08-08-at-9.46.29-AM.png)
 
 ## Virtual Machine Networking
 
@@ -120,39 +84,21 @@ virsh #</pre>
 
 Now run the &#8220;edit&#8221; command, passing the VM name from above. We will want to scroll down to the networking section, which will look something like the below:
 
-<div id="attachment_292" style="width: 670px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.52.48-AM.png"><img class="size-full wp-image-292" title="Interface pre-OVS" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-9.52.48-AM.png" alt="" width="660" height="92" /></a>
-  
-  <p class="wp-caption-text">
-    Network section pre-OVS
-  </p>
-</div>
+![Network section pre-OVS](/Screen-Shot-2012-08-08-at-9.52.48-AM.png)
 
 Change it to look like the below, substituting the name of your OVS bridge for &#8220;source bridge&#8221; below:
 
-<div id="attachment_293" style="width: 671px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-10.09.39-AM.png"><img class="size-full wp-image-293" title="Network config with OVS" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-10.09.39-AM.png" alt="" width="661" height="122" /></a>
-  
-  <p class="wp-caption-text">
-    Network configuration with OVS
-  </p>
-</div>
+![Network configuration with OVS](/Screen-Shot-2012-08-08-at-10.09.39-AM.png)
 
 Once you complete this, you will notice if you do a &#8220;dumpxml <VM name>&#8221; that libvirt has automatically added an interfaceid to the parameter section of the virtualport section of the XML. See the picture below.
 
-<div id="attachment_295" style="width: 670px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-10.13.44-AM.png"><img class="size-full wp-image-295" title="Complete OVS network config" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-08-at-10.13.44-AM.png" alt="" width="660" height="160" /></a>
-  
-  <p class="wp-caption-text">
-    Final libvirt OVS network configuration
-  </p>
-</div>
+![Final libvirt OVS network configuration](/Screen-Shot-2012-08-08-at-10.13.44-AM.png)
 
 At this point, your VM should be all set to fire up and utilize Open vSwitch for virtual networking.
 
 ## Caveats
 
-There are a few issues with the above. For one, libvirt only allows setting of 2 parameters in the &#8220;virtalport&#8221; section of the XML: interfaceid and profileid. This means you cannot set a VLAN tag, for instance. However, what this does mean is that by utilizing a profileid, you could take advantage of having all your configuration tied to the profile. This is how advanced networking technologies such as 802.1QBh work.
+There are a few issues with the above. For one, libvirt only allows setting of 2 parameters in the &#8220;virtualport&#8221; section of the XML: interfaceid and profileid. This means you cannot set a VLAN tag, for instance. However, what this does mean is that by utilizing a profileid, you could take advantage of having all your configuration tied to the profile. This is how advanced networking technologies such as 802.1QBh work.
 
 ## Conclusion
 

@@ -24,13 +24,7 @@ If you&#8217;re a fan of networking, you are no doubt very excited by all of the
 
 OpenDaylight is a highly scalable controller written in Java. It is designed from the start to be modular. Perhaps the best way to understand the Modular nature of OpenDaylight is to look at an architecture diagram of it:
 
-<div id="attachment_534" style="width: 970px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/12/OpenDaylight_OpenStack_Icehouse_Summit-1.png"><img class="size-full wp-image-534" alt="OpenDaylight Hydrogen Release" src="http://www.siliconloons.com/wp-content/uploads/2013/12/OpenDaylight_OpenStack_Icehouse_Summit-1.png" width="960" height="720" /></a>
-  
-  <p class="wp-caption-text">
-    OpenDaylight Hydrogen Release Architecture Diagram
-  </p>
-</div>
+<img class="special-img-class" src="/OpenDaylight_OpenStack_Icehouse_Summit-1.png" style="width: 800px" title="OpenDaylight Hydrogen Release Architecture Diagram" />
 
 You can see all the pieces of OpenDaylight, and there are quite a few. Because of the modular nature of OpenDaylight it makes heavy use of the <a title="OSGI Framework" href="http://en.wikipedia.org/wiki/OSGi" target="_blank">OSGI framework</a>. I&#8217;m not going to go into extreme details of how this works, but suffice to say it allows for anyone to write a bundle which can run and interact with other bundles in OpenDaylight.
 
@@ -56,13 +50,7 @@ Now, you can combine some of the things above, and you should most certainly run
 
 In either case, your topology will look very similar to the following diagram:
 
-<div id="attachment_528" style="width: 970px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/12/OpenStack+OpenDaylight-1.png"><img class="size-full wp-image-528" alt="OpenStack+OpenDaylight" src="http://www.siliconloons.com/wp-content/uploads/2013/12/OpenStack+OpenDaylight-1.png" width="960" height="720" /></a>
-  
-  <p class="wp-caption-text">
-    OpenStack and OpenDaylight Integration
-  </p>
-</div>
+<img class="special-img-class" src="/OpenStack+OpenDaylight-1.png" style="width: 800px" title="OpenStack and OpenDaylight Integration" />
 
 ## OpenDaylight and OpenStack: Building and Installing OpenDaylight
 

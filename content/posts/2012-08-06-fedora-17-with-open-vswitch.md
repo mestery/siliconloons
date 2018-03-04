@@ -27,43 +27,19 @@ I made the choice early on to utilize <a title="Open vSwitch" href="http://www.o
 
 The configuration on the 3560 end looks like this:
 
-<div id="attachment_252" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.50.43-PM.png"><img class="size-medium wp-image-252" title="3560 Configuration" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.50.43-PM-300x138.png" alt="" width="300" height="138" /></a>
-  
-  <p class="wp-caption-text">
-    Configuration on the 3560 end of the OVS LACP channel
-  </p>
-</div>
+![Configuration on the 3560 end of the OVS LACP channel](/Screen-Shot-2012-08-06-at-9.50.43-PM.png)
 
 One the OVS side of things, here is what the configuration looks like in the /etc/sysconfig/networking-scripts/bond0 configuration file. Please note the BOND_IFACES section. This is where you list the physical interfaces you want to be a part of your bond.
 
-<div id="attachment_253" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.52.04-PM.png"><img class="size-medium wp-image-253" title="/etc/sysconfig/networking-scripts/ifcfg-bond0" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.52.04-PM-300x83.png" alt="" width="300" height="83" /></a>
-  
-  <p class="wp-caption-text">
-    bond0 configuration
-  </p>
-</div>
+![bond0 configuration](/Screen-Shot-2012-08-06-at-9.52.04-PM.png)
 
 The configuration, as shown by ovs-vsctl, looks like this:
 
-<div id="attachment_254" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.53.02-PM.png"><img class="size-medium wp-image-254" title="ovs-vsctl output" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.53.02-PM-300x184.png" alt="" width="300" height="184" /></a>
-  
-  <p class="wp-caption-text">
-    ovs-vsctl output
-  </p>
-</div>
+![ovs-vsctl output](/Screen-Shot-2012-08-06-at-9.53.02-PM.png)
 
 Once you have the above working, you should now have the physical side of the OVS bridge working. The next step is to configure your management interface. For this, I simply created a mgmt0 interface, added it to the bridge, and setup a configuration file to have it brought up during system boot. You can see in the previous screen shot what this looks like. Below you will find the actual /etc/sysconfig/networking-scripts/ifcfg-mgmt0 file:
 
-<div id="attachment_255" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.54.05-PM.png"><img class="size-medium wp-image-255" title="/etc/sysconfig/networking-scripts/ifcfg-mgmt0" src="http://www.siliconloons.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-06-at-9.54.05-PM-300x183.png" alt="" width="300" height="183" /></a>
-  
-  <p class="wp-caption-text">
-    ifcfg-mgmt0 configuration
-  </p>
-</div>
+![ifcfg-mgmt0 configuration](/Screen-Shot-2012-08-06-at-9.54.05-PM.png)
 
 ## One Additional Change
 

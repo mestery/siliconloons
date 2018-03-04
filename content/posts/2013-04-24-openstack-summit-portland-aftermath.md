@@ -16,13 +16,7 @@ Last week I attended the <a title="OpenStack Summit Spring 2013 Portland" href="
 
 ## Is It Time to Separate the Conference and the Design Summit?
 
-<div id="attachment_452" style="width: 1642px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/04/photo3.jpg"><img class="size-full wp-image-452" alt="OpenStack Networking Design Summit Session" src="http://www.siliconloons.com/wp-content/uploads/2013/04/photo3.jpg" width="1632" height="1224" /></a>
-  
-  <p class="wp-caption-text">
-    OpenStack Networking Design Summit Session
-  </p>
-</div>
+<img class="special-img-class" style="width: 800px" title="OpenStack Networking Design Summit Session" src="/photo3.jpg" />
 
 With the growth of the conference, and the increased attendance by folks new to OpenStack, the question was asked by many folks if the time has come to split the event into a separate Conference and Design Summit. Particularly on Monday, the Design Summit rooms were packed with people, almost to the point of overflowing. The photo above was taken in the OpenStack Networking (formally the project known as Quantum), but was fairly representative of most Design Summit Sessions. For the most part, the design sessions withstood the influx of people and proceeded as they have in past conferences. And certainly having users participate in design sessions is a good thing. But the scale the conference has now attained means the organizers will need to keep a close on eye on this going forward to ensure relevant design sessions are still attainable by attendees interested in this portion of the event.
 
@@ -30,13 +24,7 @@ With the growth of the conference, and the increased attendance by folks new to 
 
 With regards to the design summit sessions and the conference in general, the interest in networking in OpenStack is at an all time high. The Networking Design Summit sessions were packed with attendees, and the discussions were very vibrant and exciting. For the most part, the discussions around Networking in OpenStack are all moving beyond basic L2 networks and into higher level items such as service insertion, VPNs, firewalls, and even L3 networks. There was a lot of good material discussed, and some great blueprints (see <a title="OpenStack Networking Modular L3" href="https://blueprints.launchpad.net/quantum/+spec/quantum-l3-routing-plugin" target="_blank">here</a> and <a title="Modular L2" href="https://blueprints.launchpad.net/quantum/+spec/modular-l2" target="_blank">here</a>, among others) are all set to land in Havana.
 
-<div id="attachment_458" style="width: 1642px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/04/photo4.jpg"><img class="size-full wp-image-458" alt="OpenStack Networking Design Summit Session" src="http://www.siliconloons.com/wp-content/uploads/2013/04/photo4.jpg" width="1632" height="1224" /></a>
-  
-  <p class="wp-caption-text">
-    OpenStack Networking Design Summit Session
-  </p>
-</div>
+<img class="special-img-class" style="width: 800px" title="OpenStack Networking Design Summit Session" src="/photo4.jpg" />
 
 In addition to the design discussions around OpenStack Networking, there were panels, conference sessions, and plenty of hallway conversations on the topic. Almost all the networking vendors had a strong presence at the Summit including Cisco (disclosure: I work for Cisco), Brocade, Ericsson, VMware/Nicira, Big Switch, PLUMgrid, and others. The level of interest in networking around OpenStack was truly amazing.
 

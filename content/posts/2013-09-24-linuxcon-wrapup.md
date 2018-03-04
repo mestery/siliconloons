@@ -28,13 +28,7 @@ Last week I was in New Orleans for <a title="LinuxCon" href="http://events.linux
 
 As you can see, that&#8217;s a lot of events to pack into a single week. I was focused on participating in the LinuxCon keynotes and sessions for the early part of the week. I also worked the OpenDaylight and OpenStack booths for a while on both Monday and Tuesday. It was great to meet so many people and to have amazing conversations around all of the spectacular Open Source technologies I have the pleasure of being involved with. People were very interested in talking about Open Source SDN technologies and how they relate to cloud environments. I had many great discussions around the integration of OpenDaylight with OpenStack Neutron as well.
 
-<div id="attachment_511" style="width: 1034px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/09/ian_kyle.jpg"><img class="size-full wp-image-511" alt="Ian and Kyle with the Linux Penguin" src="http://www.siliconloons.com/wp-content/uploads/2013/09/ian_kyle.jpg" width="1024" height="768" /></a>
-  
-  <p class="wp-caption-text">
-    Ian and Kyle with the Linux Penguin
-  </p>
-</div>
+<img class="special-img-class" style="width: 800px" title="Ian and Kyle with the Linux Penguin" src="/ian_kyle.jpg" />
 
 # Panels and Presentations
 
@@ -44,13 +38,7 @@ Wednesday was the day I was on the OpenDaylight Panel, which opened the OpenDayl
 
 &nbsp;
 
-<div id="attachment_514" style="width: 559px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/09/odl_panel.jpg"><img class="size-large wp-image-514" alt="OpenDaylight Panel" src="http://www.siliconloons.com/wp-content/uploads/2013/09/odl_panel-1024x768.jpg" width="549" height="411" /></a>
-  
-  <p class="wp-caption-text">
-    OpenDaylight Panel
-  </p>
-</div>
+<img class="special-img-class" src="/odl_panel-1024x768.jpg" style="width: 559px" title="OpenDaylight Panel" />
 
 I also presented at the Linux Plumbers Conference on the topics of LISP and NSH in Open vSwitch. The <a title="LISP and NSH in OVS" href="http://www.slideshare.net/mestery/lisp-and-nsh-in-open-vswitch" target="_blank">slides for this presentation</a> are now on Slideshare. My co-presenter for this discussion was Vina Ermagan. This was a very technical discussion which took place during the net-virt track of the Plumbers Conference. Overall, the feedback was very well received. And not long afterwards, the work we&#8217;ve been doing on NSH in OVS was <a title="NSH Patches for OVS" href="http://openvswitch.org/pipermail/dev/2013-September/032036.html" target="_blank">posted to the OVS mailing list</a> by Pritesh Kothari, another member of my team at Cisco. We believe the work around NSH and LISP is just another example of open protocols being contributed back into Linux and Open vSwitch.
 
@@ -64,13 +52,7 @@ While at LinuxCon, I had the please to be on two podcasts with the wonderful hos
 
   * <a title="OpenStack Neutron and SDN" href="http://www.thecloudcast.net/2013/09/the-cloudcast-108-openstack-neutron-and.html" target="_blank">OpenStack Neutron and SDN</a>: In this podcast, the discussion revolved around what to expect out of OpenStack Neutron in the Havana release of OpenStack, along with the future of OpenStack Neutron post Havana. I was joined by <a title="Mark McClain Twitter" href="https://twitter.com/gtwmm" target="_blank">Mark McClain</a>, PTL for OpenStack Neutron, and <a title="Ian Wells Twitter" href="https://twitter.com/lan_wan_ian" target="_blank">Ian Wells</a>, my colleague from Cisco.
 
-<div id="attachment_516" style="width: 1034px" class="wp-caption aligncenter">
-  <a href="http://www.siliconloons.com/wp-content/uploads/2013/09/odl_convo.jpg"><img class="size-full wp-image-516" alt="OpenDaylight Roundtable" src="http://www.siliconloons.com/wp-content/uploads/2013/09/odl_convo.jpg" width="1024" height="768" /></a>
-  
-  <p class="wp-caption-text">
-    OpenDaylight Roundtable
-  </p>
-</div>
+<img class="special-img-class" src="/odl_convo.jpg" style="width: 800px" title="OpenDaylight Roundtable" />
 
 # Summary
 
