@@ -3,9 +3,9 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 theme = "redlounge"
-title = "www.siliconloons.com"
+title = "blog.siliconloons.com"
 
-baseurl = "https://www.siliconloons.com/"
+baseurl = "https://blog.siliconloons.com/"
 canonifyurls = true
 
 [index]
