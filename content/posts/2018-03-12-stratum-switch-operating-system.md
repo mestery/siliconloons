@@ -18,26 +18,24 @@ date: 2018-03-12T09:53:54-05:00
 Fun times continue in the land of Open Source Networking, as the [ONF][1]
 launches [Stratum][2] into the wild today. From the splash page of the
 project:
-```
-Backed by a broad spectrum of organizations from across the networking
-industry, Stratum is building an open, minimal, production-ready
-distribution for white box switches.  Stratum exposes a set of
-next-generation SDN interfaces including P4Runtime and OpenConfig,
-enabling interchangeability of forwarding devices and programmability
-of forwarding behaviors. Stratum delivers a complete white box switch
-solution truly delivering on the ‘software defined’ promise of SDN.
-```
+
+> Backed by a broad spectrum of organizations from across the networking
+> industry, Stratum is building an open, minimal, production-ready
+> distribution for white box switches.  Stratum exposes a set of
+> next-generation SDN interfaces including P4Runtime and OpenConfig,
+> enabling interchangeability of forwarding devices and programmability
+> of forwarding behaviors. Stratum delivers a complete white box switch
+> solution truly delivering on the ‘software defined’ promise of SDN.
 
 OK, so it highlights all the latest buzzwords you need when launching
 anything open. But what's this at the end of the launch page?
-```
-The Stratum project is in its incubation phase during which the source
-code repository is open only to members.
 
-To join the project, a minimum commitment of one full time engineering
-(FTE) resource is required. For more information or to let us know how
-you would like to contribute, please fill out the contact form.
-```
+> The Stratum project is in its incubation phase during which the source
+> code repository is open only to members.
+> 
+> To join the project, a minimum commitment of one full time engineering
+> (FTE) resource is required. For more information or to let us know how
+> you would like to contribute, please fill out the contact form.
 
 OK, so it's not quite open source, yet. Lets see what happens once it
 exist incubation. The requirement for an FTE seems intriguing, if not a

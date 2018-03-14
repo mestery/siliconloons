@@ -20,25 +20,23 @@ date: 2018-03-14T13:23:46-05:00
 ---
 
 This, from an [AT&T press release][1] at the end of January:
-```
-AT&T* is working to provide the industry with a more open, flexible and
-cost-effective alternative to traditional integrated networking equipment.
-We intend to open source a project that we call the Disaggregated Network
-Operating System, or dNOS, hosted by The Linux Foundation.
-```
+
+> AT&T* is working to provide the industry with a more open, flexible and
+> cost-effective alternative to traditional integrated networking equipment.
+> We intend to open source a project that we call the Disaggregated Network
+> Operating System, or dNOS, hosted by The Linux Foundation.
 
 So far so good. *Another* network operating system, which is also open
 source, but I'm following along.
 
 Then this:
-```
-“The Linux Foundation welcomes the dNOS project to the open source community,"
-said Arpit Joshipura, general manager of Networking, The Linux Foundation. "The
-dNOS project will help create a network operating system community that will
-benefit existing Linux Foundation projects like FRRouting and OpenSwitch, and
-pave the way for future projects to help drive innovation at the lower layers
-of the network stack.”
-```
+
+> “The Linux Foundation welcomes the dNOS project to the open source
+> community," said Arpit Joshipura, general manager of Networking, The Linux
+> Foundation. "The dNOS project will help create a network operating system
+> community that will benefit existing Linux Foundation projects like
+> FRRouting and OpenSwitch, and pave the way for future projects to help
+> drive innovation at the lower layers of the network stack.”
 
 How will *another* open source networking community, ostensibly shoved into the
 open by a single incumbent, benefit existing communities? AT&T would have been
