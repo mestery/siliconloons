@@ -1,6 +1,6 @@
 ---
 author: mestery
-Description: "NOS Demos At OCP"
+Description: "NOS Demos At the OCP Summit"
 socialsharing: true
 url: ""
 categories:
@@ -15,7 +15,7 @@ tags:
   - networking
   - SDN
   - OCP
-title: "NOS Demos At OCP"
+title: "NOS Demos At the OCP Summit"
 date: 2018-03-19T15:02:45-05:00
 ---
 
