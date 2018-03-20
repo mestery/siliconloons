@@ -16,6 +16,7 @@ canonifyurls = true
    sidebartitle = "Silicon Loons"
    sidebartagline = "Kyle Mestery's technology commentary"
    categoriescss = "/css/my-categories.css"
+   gaid = "UA-26716828-1"
 
 [[menu.main]]
     name = "RSS"
