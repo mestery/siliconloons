@@ -13,7 +13,6 @@ tags:
   - Networking
 title: "Cloud-Native NFV: Where Art Thou?"
 date: 2018-06-06T11:54:36-05:00
-draft: true
 ---
 
 <p style="text-align:center;">
