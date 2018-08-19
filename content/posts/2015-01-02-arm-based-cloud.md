@@ -21,23 +21,13 @@ An ARM Powered Cloud
 --------------------
 The dashboard for the online.net cloud is fairly straightforward, and is similar to other cloud dashboards.
 
-<img src="http://blog.siliconloons.com/blog_images/online_net_dashboard.png" alt="Online.net Dashboard" style="width: 600px;">
-
 Creating a new instance is straight forward. You're presented with a single instance type (C1) for now.
-
-<img src="http://blog.siliconloons.com/blog_images/create_instance_1.png" alt="Server Type" style="width: 600px;">
 
 Online.net provides some good image choices.
 
-<img src="http://blog.siliconloons.com/blog_images/create_instance_2.png" alt="Image Choices" style="width: 600px;">
-
 The last step is to add a volume.
 
-<img src="http://blog.siliconloons.com/blog_images/create_instance_3.png" alt="Volume Selection" style="width: 600px;">
-
 Once you've done this, you'll see your instance running. In the example below, I have two instances running.
-
-<img src="http://blog.siliconloons.com/blog_images/online_net_servers.png" alt="Volume Selection" style="width: 600px;">
 
 All of this is fairly straightforward. Online.net provides some impressive [documentation](https://doc.cloud.online.net/),
 as well as a great [community forum](https://community.cloud.online.net/) for collaboration with other online.net cloud
