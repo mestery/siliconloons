@@ -8,23 +8,19 @@ Howto
 
 To generate this site, follow the instructions below:
 
-1. Clone this repository
+1. Clone this repository, including submodules:
 
-   `git clone git@github.com:mestery/siliconloons.git`
+   `git clone --recurse-submodules git@github.com:mestery/siliconloons.git`
 
-2. Clone the themes repository:
-
-   `git clone --recursive https://github.com/spf13/hugoThemes themes`
-
-3. Build the site using hugo
+2. Build the site using hugo
 
    `hugo --theme=redlounge`
 
-4. Sync the content out to your hosting provider:
+3. Sync the content out to your hosting provider:
 
    `rsync -avz -e ssh public/* mestery@sadira.dreamhost.com:siliconloons.com/`
 
-5. You're done!
+4. You're done!
 
 To create a new post, run a command such as the following:
 
