@@ -9,7 +9,7 @@ categories:
 tags:
   - open source
   - Network Service Mesh
-title: "Description"
+title: "Open Source Summit North America 2018"
 date: 2018-08-29T09:48:51-05:00
 ---
 
