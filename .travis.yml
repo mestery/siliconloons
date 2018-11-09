@@ -1,5 +1,5 @@
 env:
-  - HUGO_VERSION="0.47.1"
+  - HUGO_VERSION="0.51"
 
 language: go
 
