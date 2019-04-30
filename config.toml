@@ -2,45 +2,58 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
-theme = "redlounge"
+theme = "terminal"
 title = "blog.siliconloons.com"
 
 baseurl = "https://blog.siliconloons.com/"
 canonifyurls = true
 
-[index]
-   category = "categories"
-   tag = "tags"
-
 [params]
-   sidebartitle = "Silicon Loons"
-   sidebartagline = "Kyle Mestery's technology commentary"
-   categoriescss = "/css/my-categories.css"
-   gaid = "UA-26716828-1"
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
 
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
+[languages]
+  [languages.en]
+    title = "Silicon Loons"
+    subtitle = "Kyle Mestery's technology commentary"
+    keywords = ""
+    copyright = "2019"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
-[[menu.social]]
-    pre = "<i class='fa fa-github'></i>"
-    url = "https://github.com/mestery"
-    identifier = "github"
+  [languages.en.params.logo]
+    logoText = "Silicon Loons"
+    logoHomeLink = "/"
 
-[[menu.social]]
-    pre = "<i class='fa fa-twitter'></i>"
-    url = "https://www.twitter.com/mestery"
-    identifier = "twitter"
-
-[[menu.social]]
-    pre = "<i class='fa fa-linkedin'></i>"
-    url = "https://www.linkedin.com/pub/kyle-mestery/3/a0b/64a"
-    identifier = "linkedin"
-
-[[menu.footer]]
-    name = "Blog"
-    url = "/posts"
-
-[[menu.footer]]
-    name = "RSS"
-    url = "/index.xml"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "RSS"
+      name = "RSS"
+      url = "/index.xml"
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "GitHub"
+      name = "github"
+      url = "https://github.com/mestery"
+    [[languages.en.menu.main]]
+      identifier = "LinkedIn"
+      name = "linkedin"
+      url = "https://www.linkedin.com/pub/kyle-mestery/3/a0b/64a"
+    [[languages.en.menu.main]]
+      identifier = "Twitter"
+      name = "twitter"
+      url = "https://www.twitter.com/mestery"
