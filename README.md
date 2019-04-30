@@ -17,7 +17,7 @@ To generate this site, follow the instructions below:
 
 2. Build the site using hugo
 
-   `hugo --theme=redlounge`
+   `hugo --theme=terminal`
 
 3. Sync the content out to your hosting provider:
 
