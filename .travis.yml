@@ -1,10 +1,8 @@
+dist: bionic
 env:
   - HUGO_VERSION="0.51"
 
 language: go
-
-go:
-  - 1.10
 
 sudo: false
 
