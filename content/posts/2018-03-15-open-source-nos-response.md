@@ -22,9 +22,7 @@ thinking was most people, be they open source people or networking people,
 don't care about open source network operating systems. I have my theories
 as to why, and this Twitter thread contains my thoughts:
 
-{{< tweet 974034494020710400 >}}
-{{< tweet 974034813605724162 >}}
-{{< tweet 974035868624158720 >}}
+*Edit: Since deleted twitter thread once found here.
 
 Reactions from others were all over the map. [Bill Koss][3] had the first
 snarky reply, which also rings true:
