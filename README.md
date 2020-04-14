@@ -2,7 +2,6 @@ siliconloons
 ============
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/41da72e5-3f60-4712-a652-7fbf085ee740/deploy-status)](https://app.netlify.com/sites/brave-brown-9afa0a/deploys)
-[![Build Status](https://travis-ci.org/mestery/siliconloons.svg?branch=master)](https://travis-ci.org/mestery/siliconloons)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20license%202.0-blue.svg)](https://github.com/mestery/siliconloons/blob/master/LICENSE)
 
 Silicon Loons Blog Site
