@@ -1,6 +1,6 @@
 dist: bionic
 env:
-  - HUGO_VERSION="0.51"
+  - HUGO_VERSION="0.68.3"
 
 language: go
 
