@@ -47,11 +47,12 @@ original HPE code was forked and in fact is
 [still on github](https://github.com/libreswitch) under the LibreSwitch
 moniker.
 
-But, back to The Next Platform article. This quote from Drew Schulke, VP of
+Back to The Next Platform article. This quote from Drew Schulke, VP of
 networking at Dell Technologies, stands out in the article:
 
 > We didn’t drop OpenSwitch like a bad habit, but spun it into the Linux
 > Foundation and made it part of the broader Open Networking Linux project. 
+> But our focus going forward is very much going to be on the SONiC side.
 
 Dell did indeed take over the hole that HPE left in the OpenSwitch projet. But
 much like HPE before it, Dell has pretty much abandoned OpenSwitch.
