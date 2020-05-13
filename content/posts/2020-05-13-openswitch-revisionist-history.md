@@ -57,8 +57,8 @@ networking at Dell Technologies, stands out in the article:
 It's technically correct that Dell spun their code into the OpenSwitch project,
 but the OpenSwitch project *already existed* when they did this. They
 effectively took over the name of the project and replaced all of it's code
-with some combination of their own code and some code from SnapRoute (remember
-them?).
+with some combination of their own code and some code from SnapRoute
+([press release here](https://www.sdxcentral.com/articles/news/openswitch-moves-away-hpe-embracing-dell-snaproute/2016/10/)).
 
 The quote above might lead you to believe Dell created the OpenSwitch project,
 which they did not. Dell did indeed take over the hole that HPE left in the
