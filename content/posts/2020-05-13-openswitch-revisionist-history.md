@@ -24,7 +24,7 @@ tags:
   - OCP
   - Open Networking Linux
 title: "OpenSwitch Revisionist History: Redux"
-date: 2020-05-13T20:08:01-05:00
+date: 2020-05-13T08:08:01-05:00
 ---
 
 It seems we have another curious case of revisionist history around the
