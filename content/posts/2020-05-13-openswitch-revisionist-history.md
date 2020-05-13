@@ -54,8 +54,16 @@ networking at Dell Technologies, stands out in the article:
 > Foundation and made it part of the broader Open Networking Linux project. 
 > But our focus going forward is very much going to be on the SONiC side.
 
-Dell did indeed take over the hole that HPE left in the OpenSwitch projet. But
-much like HPE before it, Dell has pretty much abandoned OpenSwitch.
+It's technically correct that Dell spun their code into the OpenSwitch project,
+but the OpenSwitch project *already existed* when they did this. They
+effetively took over the name of the project and replaced all of it's code
+with some combination of their own code and some code from SnapRoute (remember
+them?).
+
+The quote above might lead you to believe Dell created the OpenSwitch project,
+which they did not. Dell did indeed take over the hole that HPE left in the
+OpenSwitch project.  But much like HPE before it, Dell has pretty much
+abandoned OpenSwitch.
 
 It seems to me that indeed Microsoft Sonic is getting the majority of the
 mindshare around open network operating systems for switches. But we should not
