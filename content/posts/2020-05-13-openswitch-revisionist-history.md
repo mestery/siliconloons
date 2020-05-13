@@ -56,7 +56,7 @@ networking at Dell Technologies, stands out in the article:
 
 It's technically correct that Dell spun their code into the OpenSwitch project,
 but the OpenSwitch project *already existed* when they did this. They
-effetively took over the name of the project and replaced all of it's code
+effectively took over the name of the project and replaced all of it's code
 with some combination of their own code and some code from SnapRoute (remember
 them?).
 
