@@ -28,9 +28,7 @@ All of these benefits alone would have made the move worth it. But the real
 kicker for me was that my workflow to generate blog posts was causing friction,
 which in turn meant I blogged less. As great as hugo was, running the entire
 stack myself was proving problematic. Enter netlify, thanks to a recommendation
-from [Jessie Frazelle][1] on twitter:
-
-{{< tweet 969978905854664704 >}}
+from [Jessie Frazelle][1] on twitter.
 
 After spending the better part of a morning sick with the flu, I was able to
 transition the site over. And I'm already thrilled and looking forward to an
