@@ -39,7 +39,7 @@ In my mind, two things make IPDK incredibly interesting:
    IPDK can help to make this a reality.
 
 If you're interested in taking a look around, feel free to checkout our
-[IPDK slack channe](https://join.slack.com/t/ipdkworkspace/shared_invite/zt-xb97bi1d-Q0NY9YC3PYv3LTw~HngVbA).
+[IPDK slack channel](https://join.slack.com/t/ipdkworkspace/shared_invite/zt-xb97bi1d-Q0NY9YC3PYv3LTw~HngVbA).
 Keep in mind it's early days. But that's the most exciting time to join
 a new Open Source project! Stay tuned for more IPDK news in the coming
 months.
