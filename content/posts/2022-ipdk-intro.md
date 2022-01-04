@@ -26,7 +26,7 @@ One of the things I'm getting involved with is [IPDK](https://ipdk.io). IPDK is
 an attempt to build infrastructure offload using existing tools such as
 [SPDK](https://spdk.io), [DPDK](https://www.dpdk.org), and
 [P4](https://opennetworking.org/p4/). It's a brand new Open Source project,
-being built in the open, with the goal of running on DPUs, IPUs, CPUs and
+being built in the open, with the goal of running on IPUs, DPUs, CPUs and
 switches.
 
 In my mind, two things make IPDK incredibly interesting:
