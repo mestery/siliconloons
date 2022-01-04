@@ -21,7 +21,7 @@ title: "IPDK Intro"
 date: 2022-01-04T04:18:41-05:00
 ---
 
-As most of you know, [I recently joined Inte](https://www.linkedin.com/posts/mestery_iamintel-innovation-software-activity-6872165653856485376-X8oa).
+As most of you know, [I recently joined Intel](https://www.linkedin.com/posts/mestery_iamintel-innovation-software-activity-6872165653856485376-X8oa).
 One of the things I'm getting involved with is [IPDK](https://ipdk.io). IPDK is
 an attempt to build infrastructure offload using existing tools such as
 [SPDK](https://spdk.io), [DPDK](https://www.dpdk.org), and
