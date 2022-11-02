@@ -2,7 +2,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
-theme = "github.com/panr/hugo-theme-terminal"
+theme = ["github.com/panr/hugo-theme-terminal"]
 title = "blog.siliconloons.com"
 
 baseurl = "https://blog.siliconloons.com/"
