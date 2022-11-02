@@ -2,9 +2,6 @@
   command = "hugo"
   publish = "public"
 
-[build.processing]
-    skip_processing = true
-
 [build.environment]
   HUGO_VERSION = "0.105.0"
   GO_VERSION = "1.19"
