@@ -6,5 +6,5 @@
     skip_processing = true
 
 [build.environment]
-  HUGO_VERSION = "0.105.0"
-  GO_VERSION = "1.19"
+  HUGO_VERSION = "0.165.0"
+  GO_VERSION = "1.22"

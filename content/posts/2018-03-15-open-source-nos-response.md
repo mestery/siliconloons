@@ -27,17 +27,17 @@ as to why, and this Twitter thread contains my thoughts:
 Reactions from others were all over the map. [Bill Koss][3] had the first
 snarky reply, which also rings true:
 
-{{< tweet 974034817208725504 >}}
+{{< x user="WR_Koss" id="974034817208725504" >}}
 
 [Mike Dvorkin][4]'s reply was also right on the money:
 
-{{< tweet 974069553977114624 >}}
+{{< x user="nikrovd" id="974069553977114624" >}}
 
 [Pete Lumbis][5] tackled it from an interesting angle, indicating the big
 players already have their own, which is true, and that it's a hard problem
 to solve:
 
-{{< tweet 974041351816794112 >}}
+{{< x user="PeteCCDE" id="974041351816794112" >}}
 
 There are other replies on the thread as well, the discussion will hopefully
 continue on. I also received an email from [Bert Vermeulen][1]. Bert had

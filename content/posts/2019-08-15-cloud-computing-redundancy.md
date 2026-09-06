@@ -15,7 +15,7 @@ date: 2019-08-15T21:38:24-05:00
 
 From [Martin Casado](https://twitter.com/martin_casado) on twitter:
 
-{{< tweet 1162151834389118976 >}}
+{{< x user="martin_casado" id="1162151834389118976" >}}
 
 The entire thread is fascinating, and his point is quite valid: How does the way we architect, code, and deploy applications in the cloud affect the cost in terms of computing power, as well as in margin?
 

@@ -43,8 +43,8 @@ I had a discussion on twitter yesterday around this, where one of the
 original OpenSwitch engineers, [Diego Dompe][7], confirmed LibreSwitch
 never took off:
 
-{{< tweet 971865036972085248 >}}
-{{< tweet 971877926567374849 >}}
+{{< x user="ddompe" id="971865036972085248" >}}
+{{< x user="ddompe" id="971877926567374849" >}}
 
 The [code][1] is still there in case anyone wants to pick it up, play
 with it, and give it a shot. In the meantime, the [new OpenSwitch code][6]

@@ -1,5 +1,5 @@
 module github.com/mestery/siliconloons
 
-go 1.19
+go 1.21
 
-require github.com/panr/hugo-theme-terminal v0.0.0-20221030072035-1c93397784f0 // indirect
+require github.com/panr/hugo-theme-terminal/v4 v4.2.5
